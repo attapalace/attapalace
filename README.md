@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning more about Data Visualizations and more advacned Deep learning algorithms.
 - ALL my projects i made through my learning at Udacity are on my Github.
 Skills :
-• Python, Pandas, NumPy
-• Matplotlib, Seaborn, Plotly, IPyWidgets.
-• Tableau
-• Sklearn machine learning.
-• TensorFlow and PyTorch DeepLearning.
-• AWS Sagemaker
+- Python, Pandas, NumPy
+- Matplotlib, Seaborn, Plotly, IPyWidgets.
+- Tableau
+- Sklearn machine learning.
+- TensorFlow and PyTorch DeepLearning.
+- AWS Sagemaker
 
 - 📫 How to reach me: https://www.linkedin.com/in/ahmed-ata-721304159/
 
