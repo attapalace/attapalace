@@ -6,10 +6,12 @@
 - ALL my projects i made through my learning at Udacity are on my Github.
 Skills :
 • Python, Pandas, NumPy
-• Matplotlib, Seaborn, Plotly, IpyWidgets.
+• Matplotlib, Seaborn, Plotly, IPyWidgets.
 • Tableau
 • Sklearn machine learning.
 • TensorFlow and PyTorch DeepLearning.
 • AWS Sagemaker
 
 - 📫 How to reach me: https://www.linkedin.com/in/ahmed-ata-721304159/
+
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=attapalace)](https://github.com/attapalace/github-readme-stats)
