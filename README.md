@@ -14,4 +14,4 @@ Skills :
 
 - 📫 How to reach me: https://www.linkedin.com/in/ahmed-ata-721304159/
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=attapalace&show_icons=true&theme=radical)](https://github.com/attapalace/github-readme-stats)
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=attapalace&show_icons=true&theme=tokyonight)](https://github.com/attapalace/github-readme-stats)
